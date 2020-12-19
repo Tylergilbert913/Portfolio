@@ -1,0 +1,41 @@
+.nav-link {
+    float: right;
+}
+#container-fluid {
+    line-height: 150%;
+    font-size: 24px;
+    margin-left: 30px;
+    margin-right: 475px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    background-color: rgba(253, 246, 246, 0.87);
+    padding: 10px 20px 20px 30px;
+}
+.rounded {
+    padding: 15px 20px 20px 15px;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 42px;
+    color: rgb(131, 50, 50);
+}
+body {
+    background: url('https://www.jambase.com/wp-content/uploads/2015/08/fishmanswatch.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.container {
+    margin-left: 30px;
+    margin-right: 200px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    background-color: rgba(253, 246, 246, 0.87);
+    padding: 10px 20px 20px 30px;
+}
+.img-fluid {
+    width: 430px;
+    height: 300px;
+    margin: 10px 10px 10px 10px;
+}
