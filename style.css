@@ -16,6 +16,8 @@
 /* image in the index/about link*/
 .rounded {
     padding: 15px 20px 20px 15px;
+    width: 300px;
+    height: 300px;
 }
 /* headers for sections */
 h1 {
@@ -51,4 +53,10 @@ body {
     text-align: center;
     background: url('https://media.istockphoto.com/vectors/abstract-simple-geometric-vector-seamless-pattern-with-gold-line-on-vector-id1160720443?k=6&m=1160720443&s=612x612&w=0&h=oLzqIKD0IjLngapr4l2Vu-0CMTDajzN_V6OgpknRm4g=');
     height: 100px;
+}
+@media screen and (max-width: 400px) {
+    body {
+        background-color: lightgreen;
+    }
+
 }
