@@ -2,6 +2,13 @@
 .nav-link {
     float: right;
 }
+.navbar {
+    background-image: url("https://www.octaneseating.com/blog/wp-content/uploads/2018/05/Wood-header.jpg");
+    padding: 20px;
+    background-size: cover;
+    font-size: 30px;
+    font-weight: bold;
+}
 /* container-fluid classes */
 #container-fluid {
     line-height: 150%;
@@ -10,7 +17,7 @@
     margin-right: 475px;
     margin-top: 60px;
     margin-bottom: 10px;
-    background-color: rgba(253, 246, 246, 0.87);
+    background-color: rgba(253, 246, 246, 0.685);
     padding: 10px 20px 20px 30px;
 }
 /* image in the index/about link*/
@@ -23,11 +30,11 @@
 h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 42px;
-    color: rgb(131, 50, 50);
+    color: rgb(161, 73, 73);
 }
 /* background pattern */
 body {
-    background: url('https://static.vecteezy.com/system/resources/previews/000/100/314/non_2x/trendy-abstract-geometric-pattern-background-vector.jpg') no-repeat center center fixed; 
+    background: url("https://onlyvectorbackgrounds.com/wp-content/uploads/2018/10/Abstract-Geometric-Background-Blue.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -39,7 +46,7 @@ body {
     margin-right: 200px;
     margin-top: 60px;
     margin-bottom: 10px;
-    background-color: rgba(253, 246, 246, 0.87);
+    background-color: rgba(253, 246, 246, 0.644);
     padding: 10px 20px 20px 30px;
 }
 /* images for portfolio */
@@ -50,9 +57,9 @@ body {
 }
 /* all sticky footers */
 .footer-margin {
-    text-align: center;
-    background: url('https://media.istockphoto.com/vectors/abstract-simple-geometric-vector-seamless-pattern-with-gold-line-on-vector-id1160720443?k=6&m=1160720443&s=612x612&w=0&h=oLzqIKD0IjLngapr4l2Vu-0CMTDajzN_V6OgpknRm4g=');
-    height: 100px;
+    background: url("https://www.octaneseating.com/blog/wp-content/uploads/2018/05/Wood-header.jpg");
+    background-size: cover;
+    height: 120px;
 }
 /* body is already responsive through bootstrap, but I added this just in case */
 @media screen and (max-width: 400px) {
