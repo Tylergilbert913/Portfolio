@@ -1,7 +1,12 @@
 /* float navigationk links to the left */
+
 .nav-link {
     float: right;
 }
+.navbar-brand {
+    font-size: 30px;
+}
+/* navigation bar image and font manipulation */
 .navbar {
     background-image: url("https://www.octaneseating.com/blog/wp-content/uploads/2018/05/Wood-header.jpg");
     padding: 20px;
@@ -9,6 +14,12 @@
     font-size: 30px;
     font-weight: bold;
 }
+.card {
+    text-align: center;
+}
+/* h1 {
+    text-align: center;
+} */
 /* container-fluid classes */
 #container-fluid {
     line-height: 150%;
@@ -23,8 +34,8 @@
 /* image in the index/about link*/
 .rounded {
     padding: 15px 20px 20px 15px;
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
 }
 /* headers for sections */
 h1 {
@@ -34,7 +45,7 @@ h1 {
 }
 /* background pattern */
 body {
-    background: url("https://onlyvectorbackgrounds.com/wp-content/uploads/2018/10/Abstract-Geometric-Background-Blue.jpg") no-repeat center center fixed; 
+    background: url("https://www.wallpapertip.com/wmimgs/11-112816_background-images-hd9-src-cool-neutral-background-best.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
