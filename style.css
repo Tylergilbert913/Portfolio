@@ -1,8 +1,8 @@
 /* float navigationk links to the left */
-
 .nav-link {
     float: right;
 }
+/* font-size for navbar  */
 .navbar-brand {
     font-size: 30px;
 }
@@ -14,12 +14,10 @@
     font-size: 30px;
     font-weight: bold;
 }
+/* center the content in all cards */
 .card {
     text-align: center;
 }
-/* h1 {
-    text-align: center;
-} */
 /* container-fluid classes */
 #container-fluid {
     line-height: 150%;
