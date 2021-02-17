@@ -1,5 +1,8 @@
 # My Portfolio Page
 
+Deployed link: https://tylergilbert913.github.io/Portfolio/
+Github: https://github.com/Tylergilbert913
+
 ## Description
 
 This website lets you navigate through my portfolio page, which gives you acces to background information about me, the ability to leave contact information, along with a message. This also gives the user access to all current work showcasing my abilities as a full stack developer.
