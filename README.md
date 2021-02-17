@@ -9,8 +9,6 @@ This website lets you navigate through my portfolio page, which gives you acces 
 1. Enter the website.
 2. Click the ABOUT link in the naviagtion bar, which will direct the user to the bio page.
    * ![Screenshot (9)](https://user-images.githubusercontent.com/73138234/102684357-b78fdc80-41a5-11eb-96ae-8df608fa36e3.png)
-3. Click the CONTACT link in the navigation bar, which will direct the user to the page where they can leave contact information, along with a message.
-   * ![Screenshot (11)](https://user-images.githubusercontent.com/73138234/102684361-c1b1db00-41a5-11eb-9ca5-a2fd00912718.png)
-4. Click the PORTFOLIO link in the navigation bar, which will direct the user to the page that showcases my latest work as a full stack developer.
+3. Click the PORTFOLIO link in the navigation bar, which will direct the user to the page that showcases my latest work as a full stack developer.
    * ![Screenshot (10)](https://user-images.githubusercontent.com/73138234/102684360-ba8acd00-41a5-11eb-8040-beca1ee1694b.png)
 

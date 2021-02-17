@@ -1,3 +1,8 @@
+.contact {
+    display: flex;
+    justify-content: center;
+}
+
 /* float navigationk links to the left */
 .nav-link {
     float: right;
@@ -34,6 +39,9 @@
     padding: 15px 20px 20px 15px;
     width: 500px;
     height: 500px;
+}
+#par {
+    color: black;
 }
 /* headers for sections */
 h1 {
