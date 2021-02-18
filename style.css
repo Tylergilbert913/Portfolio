@@ -1,3 +1,7 @@
+.contact {
+    display: flex;
+    justify-content: center;
+}
 .yup {
     display: flex;
     justify-content: center;
