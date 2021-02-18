@@ -1,12 +1,5 @@
-.contact {
-    display: flex;
-    justify-content: center;
-}
-.yup {
-    display: flex;
-    justify-content: center;
-}
-/*  */
+
+/* centering icons on about me, centering second row of portfolio page, centering conatct page container */
 .gene {
     display: flex;
     justify-content: center;
