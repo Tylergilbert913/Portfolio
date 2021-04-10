@@ -28,10 +28,6 @@
 .card {
     text-align: center;
 }
-.container {
-    display: grid;
-    justify-content: center;
-}
 /* container-fluid classes */
 #container-fluid {
     line-height: 150%;
