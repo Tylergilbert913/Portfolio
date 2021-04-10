@@ -1,5 +1,9 @@
 
 /* centering icons on about me, centering second row of portfolio page, centering conatct page container */
+.index {
+    padding: 20px;
+}
+
 .gene {
     display: flex;
     justify-content: center;
@@ -23,6 +27,10 @@
 /* center the content in all cards */
 .card {
     text-align: center;
+}
+.container {
+    display: grid;
+    justify-content: center;
 }
 /* container-fluid classes */
 #container-fluid {
