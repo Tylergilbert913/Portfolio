@@ -28,8 +28,16 @@ NONE
     
 Enter the page and click the navbarr links for each page you'd like to see.
 
+#### About me
+
    * ![Screenshot (233)](https://user-images.githubusercontent.com/73138234/114436495-601dde00-9b93-11eb-8471-8f08d9723201.png)
+
+#### Portfolio
+
    * ![Screenshot (234)](https://user-images.githubusercontent.com/73138234/114436501-614f0b00-9b93-11eb-95b1-114870a9b20d.png)
+
+#### Contact Page
+
    * ![Screenshot (235)](https://user-images.githubusercontent.com/73138234/114436505-61e7a180-9b93-11eb-82fe-5af8bccf2c3a.png)
     
 ## Contributors 
