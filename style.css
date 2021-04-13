@@ -1,5 +1,7 @@
 
 /* centering icons on about me, centering second row of portfolio page, centering conatct page container */
+
+
 .index {
     padding: 20px;
 }
@@ -65,12 +67,14 @@ body {
 }
 /* all main cotainer classes */
 .container {
+    font: black;
+    font-size: 20px;
     text-align: center;
-    margin-left: 30px;
+    margin-left: 250px;
     margin-right: 200px;
     margin-top: 60px;
     margin-bottom: 10px;
-    background-color: rgba(253, 246, 246, 0.644);
+    background-color: rgba(253, 246, 246, 0.541);
     padding: 10px 20px 20px 30px;
 }
 /* images for portfolio */
@@ -80,11 +84,7 @@ body {
     margin: 10px 10px 10px 10px;
 }
 /* all sticky footers */
-.footer-margin {
-    background: url("https://www.octaneseating.com/blog/wp-content/uploads/2018/05/Wood-header.jpg");
-    background-size: cover;
-    height: 120px;
-}
+
 
 /* body is already responsive through bootstrap, but I added this just in case */
 @media screen and (max-width: 400px) {
